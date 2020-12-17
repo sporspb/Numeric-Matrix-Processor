@@ -11,3 +11,6 @@ content:
 - String concatenation
 - Curried function
 - Reducer operator
+- Count passwords
+- Print elements of a stream
+- Finding max and min elements
